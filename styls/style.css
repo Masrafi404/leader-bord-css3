@@ -167,7 +167,7 @@ main{
 /* media wuary  */
 /* Mobile phone */
 
-@media only screen and (max-width:688px) {
+@media only screen and (max-width:687px) {
     .players{
         grid-template-columns: repeat(1,1fr);
     }
